@@ -56,7 +56,7 @@ h2 {
 
 section {
   margin-bottom: 40px;
-  background-color: #43291f;
+  background-color: #a53860;
   padding: 20px;
   border-radius: 5px;
   margin-left: 20px;
@@ -94,7 +94,7 @@ li {
   color: black;
 }
 .career-profile p {
-  color: #aa998f;
+  color: #fdeed9;
 }
 .career-profile h2 {
   color: #fdeed9;
@@ -121,7 +121,7 @@ li {
 }
 .honors p,
 .interests p {
-  color: #aa998f;
+  color: #fdeed9;
 }
 
 @media (max-width: 768px) {
