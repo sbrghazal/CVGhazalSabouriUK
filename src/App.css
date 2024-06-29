@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: black;
-  background-color: #aa998f;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
@@ -10,11 +10,11 @@ body {
 
 .App {
   width: 100%;
-  background-color: #aa998f;
+  background-color: #ffffff;
 }
 
 .header {
-  background-color: #aa998f;
+  background-color: #ffffff;
   color: black;
   padding: 40px 20px;
   text-align: center;
@@ -48,7 +48,7 @@ main {
 }
 
 h2 {
-  color: #aa998f;
+  color: #fdeed9;
   border-bottom: 2px solid #d1be9c;
   padding-bottom: 10px;
   font-size: 1.8em;
@@ -75,7 +75,7 @@ li {
 .education-item,
 .experience-item,
 .project-item {
-  background-color: #aa998f;
+  background-color: #fdeed9;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 5px;
@@ -97,7 +97,7 @@ li {
   color: #aa998f;
 }
 .career-profile h2 {
-  color: #aa998f;
+  color: #fdeed9;
 }
 .experience-item li,
 .skills li strong,
@@ -114,7 +114,7 @@ li {
 .skills li {
   color: black;
   flex-basis: 48%;
-  background-color: #aa998f;
+  background-color: #fdeed9;
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 5px;

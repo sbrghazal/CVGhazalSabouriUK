@@ -6,7 +6,7 @@ export default function Header() {
       <header>
         <h1>Ghazal Sabouri</h1>
         <p>
-          📞 07442628863 | ✉️ ghazal.sabori@gmail.com |
+          ✉️ ghazal.sabori@gmail.com |
           <a href="http://www.linkedin.com/in/ghazal-sabouri">🆔 LinkedIn</a> |
           <a href="https://github.com/sbrghazal">💻 GitHub</a>
         </p>
