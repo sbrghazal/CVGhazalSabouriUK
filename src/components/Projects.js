@@ -28,16 +28,7 @@ function Projects() {
           <li>Enabled user registration and task management</li>
         </ul>
       </div>
-      <div className="project-item">
-        <h3>Secure Login Page</h3>
-        <ul>
-          <li>
-            Implemented security measures and user authorization with Python
-            Flask
-          </li>
-          <li>Designed a database for secure login details</li>
-        </ul>
-      </div>
+
       <div className="project-item">
         <h3>Stop Watch</h3>
         <ul>
