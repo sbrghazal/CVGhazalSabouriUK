@@ -28,16 +28,6 @@ function Projects() {
           <li>Enabled user registration and task management</li>
         </ul>
       </div>
-
-      <div className="project-item">
-        <h3>Stop Watch</h3>
-        <ul>
-          <li>
-            Developed a C# Winform stopwatch using MS Visual Studio to track
-            running times for athletes
-          </li>
-        </ul>
-      </div>
     </section>
   );
 }

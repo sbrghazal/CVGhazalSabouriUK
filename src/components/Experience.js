@@ -23,6 +23,15 @@ function Experience() {
           </li>
         </ul>
       </div>
+      <div className="experience-item">
+        <h3>Ferdows Institute of Higher Education</h3>
+        <p>Teaching Assistant | June 2020 – August 2020</p>
+        <ul>
+          <li>Taught course material effectively to students</li>
+          <li>Developed innovative and new teaching method</li>
+          <li>Evaluated and corrected student projects</li>
+        </ul>
+      </div>
     </section>
   );
 }
