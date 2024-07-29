@@ -12,7 +12,7 @@ export default function Header() {
           <a href="https://github.com/sbrghazal">💻 GitHub</a>
         </p>
         <p>
-          📍 Birmingham, United Kingdom <br></br> Willing to relocate
+          📍 United Kingdom <br></br> Willing to relocate
         </p>
       </header>
     </div>
